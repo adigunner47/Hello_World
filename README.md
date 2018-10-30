@@ -1,3 +1,3 @@
-# hello-world
-Hello world Repository
-My name is Aditya.
+Name: Aditya Bhandari
+Roll_no: 15QE30001
+EE60033 Assignment: Energy Compaction Properties Of Transforms
